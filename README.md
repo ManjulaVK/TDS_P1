@@ -14,6 +14,6 @@ TDS project1 IITM DS
 •	An actionable recommendation for developers based on your analysis
   There were total of 13413 licenses outwhich MIT License were 7225(54%)and Apache License 2.0 wre 3178 (24%)
   The were 173 different lanuages used and  highest language used by developes were JavaScript (24%) and python(12%)
-  Close look at the developers language 2020 onwards reveals of C++ as highest langage used by developrs.
+    Close look at the developers language 2020 onwards reveals of C++ as highest langage used by developrs.
 
 
